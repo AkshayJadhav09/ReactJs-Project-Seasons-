@@ -45,7 +45,6 @@ class App extends React.Component {
 }
 
 
-
 //display component
 ReactDOM.render(
     <App />,
